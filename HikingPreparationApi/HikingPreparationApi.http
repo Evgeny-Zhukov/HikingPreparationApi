@@ -1,0 +1,6 @@
+@HikingPreparationApi_HostAddress = http://localhost:5100
+
+GET {{HikingPreparationApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

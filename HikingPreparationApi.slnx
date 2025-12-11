@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Application/Application.csproj" />
+  <Project Path="ConsoleApp/ConsoleApp.csproj" Id="a3a19138-9aae-42e2-880f-d0f222f5d9bb" />
+  <Project Path="Core/Core.csproj" />
+  <Project Path="Infrastructure/Infrastructure.csproj" />
+  <Project Path="WebApi/WebApi.csproj" />
+</Solution>
